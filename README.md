@@ -82,10 +82,8 @@ Everything should be up and running now! Make sure both frontend and backend ser
 
 ---
 
-# CRUD Operations
-Sure! Here's a clean and professional `README.md` API documentation table for the `userRoutes` endpoints:
 
----
+
 
 # 🌱 Plant Tracker API
 
